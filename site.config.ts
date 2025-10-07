@@ -7,7 +7,7 @@ export default defineSiteConfig({
   author: {
     name: '逆光InverseLight',
   },
-  description: 'Valaxy Theme Yun Preview.',
+  description: 'Dance With Darkness',
   social: [
     {
       name: 'RSS',
