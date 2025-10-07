@@ -23,7 +23,7 @@ export default defineSiteConfig({
     },
     {
       name: 'GitHub',
-      link: 'https://github.com/YunYouJun',
+      link: 'https://github.com/WaterMagent',
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
