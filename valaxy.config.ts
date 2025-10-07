@@ -34,14 +34,6 @@ export default defineValaxyConfig<UserThemeConfig>({
         color: 'hotpink',
       },
     ],
-
-    footer: {
-      since: 2025,
-      beian: {
-        enable: true,
-        icp: 'ICP备1145141919号',
-      },
-    },
   },
 
   unocss: { safelist },
